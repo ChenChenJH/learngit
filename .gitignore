@@ -1,0 +1,23 @@
+.classpath
+.project
+.settings
+.DS_Store
+*.iml
+.idea/
+*/target/
+*/logPath_IS_UNDEFINED/
+*/logs/
+logs_history/
+*.gz
+.MF
+aa.txt
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+out
+build/
+lib/
+build.xml
